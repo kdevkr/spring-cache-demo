@@ -6,3 +6,4 @@ spring.cache:
 
 logging.level:
   'com.example.demo.cache.CacheStatsDebugger': debug
+  'org.springframework.cache.interceptor.CacheInterceptor': trace
